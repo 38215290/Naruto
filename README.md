@@ -1,7 +1,7 @@
-# Naruto Dataset
+# Naruto 
   En el presente proyecto tendra como objetivo mostrar las opciones que ofrece MYSQL y power BI en el modelado de datos y visualizacion
 
-** Descarga 
+**Descarga Dataset**
 
 
   Se descargo el dataset de una pagina publica 
